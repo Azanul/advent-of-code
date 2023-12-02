@@ -1,6 +1,5 @@
 {
     "rust-analyzer.linkedProjects": [
-        "./D1-CalorieCounting/v1/Cargo.toml",
-        "./D1-CalorieCounting/v2/Cargo.toml"
+        "./Cargo.toml"
     ]
 }
